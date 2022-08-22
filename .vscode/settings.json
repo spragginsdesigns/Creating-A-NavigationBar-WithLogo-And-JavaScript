@@ -1,0 +1,8 @@
+{
+  "editor.fontFamily": "Monolisa 2.1",
+  "editor.wordWrap": "on",
+  "editor.codeLensFontFamily": "Monolisa 2.1",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Dracula Pro",
+  "workbench.preferredDarkColorTheme": "Dracula Pro"
+}
